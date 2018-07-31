@@ -1,3 +1,5 @@
+**This repo has been moved to [Gitlab](https://gitlab.com/rdi-eg/scripts) and is no longer maintained here.**
+
 # scripts
 Various unrelated scripts that I wrote but do not think they deserve a repository of there own.
 
